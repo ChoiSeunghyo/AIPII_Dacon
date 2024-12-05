@@ -7,8 +7,9 @@
 
 - **모델**
   
-#### 1. 기본 Baseline
+### 1. 기본 Baseline
 1-1. 전처리: 이미지를 256x256으로 크기 조정, 텐서 변환, 정규화 처리
 
-U-Net 구조, PatchGAN
+1-2. 구현 방식: U-Net 구조, PatchGAN
+
 
