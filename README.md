@@ -19,3 +19,14 @@
 + Generator(U-Net): 다운샘플링과 업샘플링 블록 사용, Skip connection으로 복원 강화, Tanh를 사용해 -1~1로 정규화된 이미지 생성
 + Discriminator(PatchGAN): 복원된 이미지의 국소적인 패치를 분석, 현실적인 이미지인지 평가, 손상된 이미지와 복원된 이미지를 결합하여 입력으로 사용
 
+
+1-3 결과
+
++평가 산식: SSIM, 색상 Histogram 유사도
+
++ S: 전체 SSIM 평균
++ M: 손실 영역 SSIM 평균
++ C: 색상 유사도 평균
++ Score = (0.2 x S) + (0.4 x M) + (0.4 x C)
+
+  
