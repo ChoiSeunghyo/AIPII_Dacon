@@ -50,3 +50,18 @@
 ![결과2](![image](https://github.com/user-attachments/assets/0f1e88ed-f0dd-4363-acf0-e7c73c9603b7)
 )
 
+
+
+### 3. 2코드에서 수정
+
+
+3-1. 추가 코드
+
++ 모델이 판별기의 "진짜" 판단에 과도하게 의존하지 않도록 학습을 안정화
++ 생성기의 성능 개선
+
+![코드추가](https://github.com/ChoiSeunghyo/AIPII_Dacon/blob/main/%2Bcode.png)
+
+
+3-2. 결과
+
