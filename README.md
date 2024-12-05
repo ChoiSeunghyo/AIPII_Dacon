@@ -24,11 +24,9 @@
 
 +평가 산식: SSIM, 색상 Histogram 유사도
 
-![결과1](https://github.com/ChoiSeunghyo/AIPII_Dacon/blob/main/test_1.png)
-
 + S: 전체 SSIM 평균
 + M: 손실 영역 SSIM 평균
 + C: 색상 유사도 평균
 + Score = (0.2 x S) + (0.4 x M) + (0.4 x C)
 
-  
+![결과1](https://github.com/ChoiSeunghyo/AIPII_Dacon/blob/main/test_1.png)  
