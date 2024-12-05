@@ -16,6 +16,6 @@
 
 1-2. 구현 방식: U-Net 구조, PatchGAN
 
-+ Generator: U-Net 구조를 활용하여 복원 이미지 생성
-+ Discriminator: PatchGAN을 사용해 생성된 이미지의 진짜/가짜 여부를 평가
++ Generator(U-Net): 다운샘플링과 업샘플링 블록 사용, Skip connection으로 복원 강화, Tanh를 사용해 -1~1로 정규화된 이미지 생성
++ Discriminator(PatchGAN): 복원된 이미지의 국소적인 패치를 분석, 현실적인 이미지인지 평가, 손상된 이미지와 복원된 이미지를 결합하여 입력으로 사용
 
