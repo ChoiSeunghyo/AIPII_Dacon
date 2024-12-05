@@ -30,7 +30,7 @@
 
 ![결과1](https://github.com/ChoiSeunghyo/AIPII_Dacon/blob/main/test_1.png)  
 
-
+-----
 
 ### 2. 코드공유(public 0.47243) U-net+PatchGAN Discriminator (epoch28))
 
@@ -50,7 +50,7 @@
 ![결과2](![image](https://github.com/user-attachments/assets/0f1e88ed-f0dd-4363-acf0-e7c73c9603b7)
 )
 
-
+-----
 
 ### 3. 2코드에서 수정
 
@@ -65,3 +65,6 @@
 
 3-2. 결과
 
++ 2 와 비교함
+
+![결과3](https://github.com/ChoiSeunghyo/AIPII_Dacon/blob/main/test_3.png)
