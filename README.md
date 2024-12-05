@@ -79,3 +79,12 @@
 + 2 와 비교함
 
 ![결과3](https://github.com/ChoiSeunghyo/AIPII_Dacon/blob/main/test_3.png)
+
+
+----
+
+
+4. 최종모델
+
++ 2코드의 Epoch28
+
