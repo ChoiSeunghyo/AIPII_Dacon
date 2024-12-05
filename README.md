@@ -47,8 +47,8 @@
 
 2-3. 결과
 
-![결과2](![image](https://github.com/user-attachments/assets/0f1e88ed-f0dd-4363-acf0-e7c73c9603b7)
-)
+![결과2](https://github.com/ChoiSeunghyo/AIPII_Dacon/blob/main/test_2.png)
+
 
 -----
 
