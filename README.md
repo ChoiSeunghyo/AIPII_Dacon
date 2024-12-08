@@ -86,7 +86,15 @@
 
 ### 4. Adamw 최적화 기법 적용
 
-![]
+
+
+4-1. 변경 코드
+
+![adamw](https://github.com/ChoiSeunghyo/AIPII_Dacon/blob/main/adamw_code.png)
+
+
+4-2. 결과
+
 
 
 4. 최종모델
