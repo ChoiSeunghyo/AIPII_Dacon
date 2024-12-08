@@ -108,5 +108,8 @@
 
 ----
 
+
++ 복원된 이미지
+
 ![복원이미지1](https://github.com/ChoiSeunghyo/AIPII_Dacon/blob/main/%EB%B3%B5%EC%9B%90%EC%82%AC%EC%A7%843.png)
 
