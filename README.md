@@ -95,6 +95,10 @@
 
 4-2. 결과
 
+![결과4](https://github.com/ChoiSeunghyo/AIPII_Dacon/blob/main/test_4.png)
+
+
+----
 
 
 4. 최종모델
